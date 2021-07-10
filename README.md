@@ -64,8 +64,22 @@ Run the following commands to start the application on your local host
 ## Navigating through the app
 
 * Login Screen
+
+![Screen Shot 2021-07-10 at 7 14 31 PM](https://user-images.githubusercontent.com/64951124/125165651-7dc00b00-e1b5-11eb-95b7-80510175e52e.png)
+
 * Chat Window
+
+![Screen Shot 2021-07-10 at 7 19 46 PM](https://user-images.githubusercontent.com/64951124/125165671-93353500-e1b5-11eb-819a-553a4805fb65.png)
+
+![Screen Shot 2021-07-10 at 7 20 12 PM](https://user-images.githubusercontent.com/64951124/125165678-9c260680-e1b5-11eb-81b3-5dd5d518ebd5.png)
+
 * Video Call
+
+![Screen Shot 2021-07-10 at 7 21 07 PM](https://user-images.githubusercontent.com/64951124/125165686-a811c880-e1b5-11eb-8bf7-037f9fe81f15.png)
+
+![Screen Shot 2021-07-10 at 7 21 21 PM](https://user-images.githubusercontent.com/64951124/125165691-b233c700-e1b5-11eb-85a0-bbb921936bc1.png)
+
+![Screen Shot 2021-07-10 at 7 21 30 PM](https://user-images.githubusercontent.com/64951124/125165696-b95ad500-e1b5-11eb-9be6-8668662ad818.png)
 
 <!-- ACKNOWLEDGEMENTS -->
 
