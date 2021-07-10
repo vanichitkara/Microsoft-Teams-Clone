@@ -60,6 +60,12 @@ Run the following commands to start the application on your local host
 ```sh
   npm install && npm start
 ```
+<!-- APP TUTORIAL-->
+## Navigating through the app
+
+* Login Screen
+* Chat Window
+* Video Call
 
 <!-- ACKNOWLEDGEMENTS -->
 
