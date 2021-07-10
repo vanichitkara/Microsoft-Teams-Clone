@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <a href="https://microsoft-teams-engage.netlify.app/">Deployed Project</a>
+ <a href="https://microsoft-teams-engage.netlify.app/">Link to the App</a>
     ·
  <a href="">Video Demo</a>
 </p>
@@ -40,6 +40,8 @@ Make sure to install the required dependencies via node package manager
 
 * Video Call Application
 
+To separately run the video call application on your local host, perform the following steps:
+
 Run the following commands to start the server side.
 
 ```sh
@@ -61,29 +63,39 @@ Run the following commands to start the application on your local host
   npm install && npm start
 ```
 <!-- APP TUTORIAL-->
-## Navigating through the app
+## Navigating Through The App
 
-* Login Screen
+* Login Screen - Login to the chat application via Google or Facebook. If an email id is linked with both Google and Facebook, then sign in can be done with only one of them.
 
-![Screen Shot 2021-07-10 at 7 14 31 PM](https://user-images.githubusercontent.com/64951124/125165651-7dc00b00-e1b5-11eb-95b7-80510175e52e.png)
+<img src="Images/Login-Screen.png" alt="login screen" width="700"/>
 
 * Chat Window
 
-![Screen Shot 2021-07-10 at 7 19 46 PM](https://user-images.githubusercontent.com/64951124/125165671-93353500-e1b5-11eb-819a-553a4805fb65.png)
+After logging in, a blank chat window appears. Start a new chat by clicking on the + sign. A video call can be placed by clicking the 'Video Call' option in the navigation bar. Adjacent to it is the logout option.
 
-![Screen Shot 2021-07-10 at 7 20 12 PM](https://user-images.githubusercontent.com/64951124/125165678-9c260680-e1b5-11eb-81b3-5dd5d518ebd5.png)
+<img src="Images/Blank-Chat-Window.png" alt="blank chat window" width="700"/>
+
+All the users registered with the app can be added to your chat. Photo sharing, read receipts, formatting the text, and many other things are possible in the chat. The shared photos can be viewed in the right pane. The chat can be deleted by expanding the 'Options' menu in the right pane and clicking the 'Delete' option.
+
+<img src="Images/New-Chat.png" alt="new chat" width="700"/>
 
 * Video Call
 
-![Screen Shot 2021-07-10 at 7 21 07 PM](https://user-images.githubusercontent.com/64951124/125165686-a811c880-e1b5-11eb-8bf7-037f9fe81f15.png)
+The video call welcome screen shows your video and has a form to enter your name. To place a call, click on 'Copy your ID' and send the random generated ID to the person you want to call. 
 
-![Screen Shot 2021-07-10 at 7 21 21 PM](https://user-images.githubusercontent.com/64951124/125165691-b233c700-e1b5-11eb-85a0-bbb921936bc1.png)
+<img src="Images/Video-Call-Welcome-Screen.png" alt="video call welcome screen" width="700"/>
 
-![Screen Shot 2021-07-10 at 7 21 30 PM](https://user-images.githubusercontent.com/64951124/125165696-b95ad500-e1b5-11eb-9be6-8668662ad818.png)
+The person who received the ID needs to copy that in the 'ID to call' input field and click on 'Call' button. You can accept the person's incoming call by clicking on 'Answer' button.
+
+<img src="Images/Placing-Call.png" alt="placing call" width="700"/>
+
+Once the call is accepted, the users are connected and can video call seamlessly with the option to mute audio and video when required. The call can be stopped by clicking on 'Hang Up' button. The video call screen closes and we are navigated back to the chat window.
+
+<img src="Images/Video-Call-2-people.png" alt="video call between 2 people" width="700"/>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## Acknowledgements
+## Resources Used
 
 * [React video call app tutorial](https://youtu.be/oxFr7we3LC8)
 * [How does webRTC work? Make a video call app using webRTC](https://youtu.be/rr_Zd16dql0)
