@@ -8,14 +8,40 @@
  <a href="">Video Demo</a>
 </p>
     
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
+        <li><a href="#login">Login</a></li>
+        <li><a href="#chat-window">Chat Window</a></li>
+        <li><a href="#video-call">Video Call</a></li>
+      </ul>
+    <li><a href="#resources-used">Resources Used</a></li>
+  </ol>
+</details>
+
 <!-- ABOUT THE PROJECT -->
 
-### About The Project
+## About The Project
 * Microsoft Teams clone project built during Microsoft Engage 2021 program. 
 * It is a video call and chat application through which we can chat before, during and after a video call. 
 * The video call can take place between maximum 2 people at once.
 
-## Built With
+### Built With
 
 ### Video Call Application: 
 * ![Front-end][front-end-shield]
@@ -64,12 +90,13 @@ Run the following commands to start the application on your local host
 ```
 <!-- APP TUTORIAL-->
 ## Navigating Through The App
+### Login
 
-* Login Screen - Login to the chat application via Google or Facebook. If an email id is linked with both Google and Facebook, then sign in can be done with only one of them.
+Login to the chat application via Google or Facebook. If an email id is linked with both Google and Facebook, then sign in can be done with only one of them.
 
 <img src="Images/Login-Screen.png" alt="login screen" width="700"/>
 
-* Chat Window
+### Chat Window
 
 After logging in, a blank chat window appears. Start a new chat by clicking on the + sign. A video call can be placed by clicking the 'Video Call' option in the navigation bar. Adjacent to it is the logout option.
 
@@ -79,7 +106,7 @@ All the users registered with the app can be added to your chat. Photo sharing, 
 
 <img src="Images/New-Chat.png" alt="new chat" width="700"/>
 
-* Video Call
+### Video Call
 
 The video call welcome screen shows your video and has a form to enter your name. To place a call, click on 'Copy your ID' and send the random generated ID to the person you want to call. 
 
