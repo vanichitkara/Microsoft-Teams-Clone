@@ -15,9 +15,6 @@
 * It is a video call and chat application through which we can chat before, during and after a video call. 
 * The video call can take place between maximum 2 people at once.
 
-### Link to the deployed project
-https://microsoft-teams-engage.netlify.app/
-
 ## Built With
 
 ### Video Call Application: 
