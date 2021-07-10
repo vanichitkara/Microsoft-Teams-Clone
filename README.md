@@ -65,9 +65,9 @@ Run the following commands to start the application on your local host
 
 ## Acknowledgements
 
-[React video call app tutorial](https://youtu.be/oxFr7we3LC8)
-[How does webRTC work? Make a video call app using webRTC](https://youtu.be/rr_Zd16dql0)
-[Firebase chat app - React JS, Firebase, Chat Engine](https://youtu.be/Bv9Js3QLOLY)
+* [React video call app tutorial](https://youtu.be/oxFr7we3LC8)
+* [How does webRTC work? Make a video call app using webRTC](https://youtu.be/rr_Zd16dql0)
+* [Firebase chat app - React JS, Firebase, Chat Engine](https://youtu.be/Bv9Js3QLOLY)
 
 <!--MARKDOWN LINKS-->
 [front-end-shield]: https://img.shields.io/badge/Front--end-React%20JS%2C%20Material--UI-blueviolet
