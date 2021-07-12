@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
- <a href="https://microsoft-teams-engage.netlify.app/">Link to the App</a>
+ <a target="_blank" href="https://microsoft-teams-engage.netlify.app/">Link to the App</a>
     ·
- <a href="https://youtu.be/glbSWYa5zQs">Video Demo</a>
+ <a target="_blank" href="https://youtu.be/glbSWYa5zQs">Video Demo</a>
 </p>
     
 <!-- TABLE OF CONTENTS -->
