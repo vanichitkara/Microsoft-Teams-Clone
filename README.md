@@ -15,6 +15,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#salient-features">Salient Features</a></li>
+        <li><a href="#compatible-platforms">Compatible Platforms</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -40,6 +42,14 @@
 * Microsoft Teams clone project built during Microsoft Engage 2021 program. 
 * It is a video call and chat application through which we can chat before, during and after a video call. 
 * The video call can take place between maximum 2 people at once.
+
+### Salient Features
+* User authentication using Firebase and login via Google and Facebook
+* Creating and deleting chat groups, adding and removing people by the group admin, photo sharing, chat text formatting, read receipts, typing status of users
+* One-on-one video call with randmoly generated unique link and the ability to mute and unmute audio and video during the call
+
+### Compatible Platforms
+Laptops, Desktops and Tablet PCs
 
 ### Built With
 
@@ -92,7 +102,7 @@ Run the following commands to start the application on your local host
 ## Navigating Through The App
 ### Login
 
-Login to the chat application via Google or Facebook. If an email id is linked with both Google and Facebook, then sign in can be done with only one of them.
+Login to the chat application via Google or Facebook. If an email id is linked with both Google and Facebook, then sign in can be done with wither via Google or Facebook.
 
 <img src="Images/Login-Screen.png" alt="login screen" width="700"/>
 
@@ -108,7 +118,7 @@ All the users registered with the app can be added to your chat. Photo sharing, 
 
 ### Video Call
 
-The video call welcome screen shows your video and has a form to enter your name. To place a call, click on 'Copy your ID' and send the random generated ID to the person you want to call. 
+The video call welcome screen shows your video and has a form to enter your name. To place a call, click on 'Copy your ID' and send the random generated unique ID to the person you want to call. 
 
 <img src="Images/Video-Call-Welcome-Screen.png" alt="video call welcome screen" width="700"/>
 
