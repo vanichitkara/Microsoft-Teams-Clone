@@ -21,6 +21,13 @@
       </ul>
     </li>
     <li>
+      <a href="#agile-methodology">Agile Methodology</a>
+      <ul>
+        <li><a href="#what-is-agile">What is Agile</a></li>
+        <li><a href="#how-i-incorporated-agile-methodology-during-the-development-cycle">How I Incorporated Agile Methodology During The Development Cycle</a></li>
+      </ul>
+    </li>
+    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -62,6 +69,23 @@ Laptops, Desktops and Tablet PCs
 * ![Front-end][front-end-shield-1]
 * ![Back-end][back-end-shield-1]
 * ![Tools][tools-shield-1]
+
+<!-- AGILE METHODOLOGY -->
+## Agile Methodology
+
+### What is Agile
+
+Agile is a development methodology adopted today in the software industry. Agile promotes teamwork, flexible procedures, and sle-organizing teams.
+
+### How I Incorporated Agile Methodology During The Development Cycle
+
+SCRUM is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
+
+* Sprint 1 (June 14): Sprint Planning, Research and Design - Researching about various video call libraries and SDKs that can be used to make a video call app with a minimum functionality to have a call between 2 people. After finalizing webRTC for making the video call app, I searched for tutorials, designed a wireframe including the functionalities I want and designed the UI.
+
+* Sprint 2 (June 21): Software development and debugging - Started the development process by taking help from YouTube tutorials. Built a web application using React JS and Node JS for the first time. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing
+
+* Sprint 3 (July 5): Adapting the surprise feature, debugging and adding additional features - My detailed research made it easy for me to decide how to implement the surprise 'adapt' feature. Decided to build a chat app using React JS and Chat Engine and link my previous video call application to the new chat application. Made changes in pre-loaded styles to complement the color scheme of the video call app and added sign in authentication using Firebase. Also added mute audio and video function in the video call application.
 
 <!-- INSTALLATIONS -->
 
