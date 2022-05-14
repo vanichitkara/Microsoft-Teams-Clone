@@ -53,7 +53,7 @@
 ### Salient Features
 * User authentication using Firebase and login via Google and Facebook
 * Creating and deleting chat groups, adding and removing people by the group admin, photo sharing, chat text formatting, read receipts, typing status of users
-* One-on-one video call with randmoly generated unique link and the ability to mute and unmute audio and video during the call
+* One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
 
 ### Compatible Platforms
 Laptops, Desktops and Tablet PCs
